@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vivek788more@gmail.com**
 
-- ⚡ 
+- ⚡ Currently Working in iNurture Edutech Solutions PVT.Ltd
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
