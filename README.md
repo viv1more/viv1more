@@ -1,6 +1,6 @@
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
 <h1 align="center">Hi 👋, I'm Vivek More</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer with a focus on Cloud Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viv1more&label=Profile%20views&color=0e75b6&style=flat" alt="viv1more" /> </p>
 
@@ -18,7 +18,7 @@
 
 - ⚡ Currently Working in iNurture Edutech Solutions PVT.Ltd
 
-- 🌩️ I'm passionate about pursuing a career in Cloud Technologies and exploring the potential of cloud computing to solve real-world problems.
+- ☁️ I'm passionate about Cloud Technologies and leveraging the power of cloud computing to build scalable and resilient applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
