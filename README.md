@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Master of Computer Application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/viv1more/](https://github.com/viv1more/) and [https://replit.com/@vivek788more)
+- 👨‍💻 All of my projects are available at [https://github.com/viv1more/](https://github.com/viv1more/) and https://replit.com/@vivek788more
 
 - 💬 Ask me about **Python, SQL**
 
