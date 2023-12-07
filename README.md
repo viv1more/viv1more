@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/viv1more/](https://github.com/viv1more/)
 
-- 💬 Ask me about **Java, Python, PHP**
+- 💬 Ask me about **Python, SQL**
 
 - 📫 How to reach me **vivek788more@gmail.com**
 
 - ⚡ Currently Working in iNurture Edutech Solutions PVT.Ltd
 
-- ☁️ I'm passionate about Cloud Technologies and leveraging the power of cloud computing to build scalable and resilient applications.
+- ☁️ I'm passionate about Data Analysis and leveraging the power of Data Analysis and Data Science to build scalable and resilient applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
