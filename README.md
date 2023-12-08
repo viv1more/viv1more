@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivek788more" target="blank"><img src="https://img.shields.io/twitter/follow/vivek788more?logo=twitter&style=for-the-badge" alt="vivek788more" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud and DevOps**
+- 🔭 I’m currently working on **Data Science and AI & ML**
 
 - 🌱 I’m  **(MCA) Master of Computer Application** Graduate from **SPPU Pune**
 
