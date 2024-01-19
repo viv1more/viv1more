@@ -68,5 +68,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viv1more&show_icons=true&locale=en&layout=compact" alt="viv1more" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viv1more&show_icons=true&locale=en" alt="viv1more" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viv1more&" alt="viv1more" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viv1more)](https://git.io/streak-stats)
