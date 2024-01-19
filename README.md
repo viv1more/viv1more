@@ -69,4 +69,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viv1more&show_icons=true&locale=en" alt="viv1more" /></p>
 
- ![image](https://user-images.githubusercontent.com/20955511/183303710-b3c336ad-df6d-4529-aa95-6808bfe907dc.png)  
