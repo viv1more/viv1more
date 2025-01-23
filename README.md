@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://twitter.com/vivek788more" target="_blank"><img src="https://img.shields.io/twitter/follow/vivek788more?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/vivek-more" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/viv1more" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://fb.com/viv1more7887" target="_blank"><img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook" /></a>
   <a href="https://instagram.com/itsvivekmore" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
 </div>
